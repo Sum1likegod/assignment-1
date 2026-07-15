@@ -1,10 +1,14 @@
 import json
 import spacy
 from spacy.training.example import Example
+from pathlib import Path
 import random
 
 # 1. Load the generated dataset from the 'data' folder
-with open('data/dataset.json', 'r') as f:
+# script_dir = Path(__file__).parent
+# file_path = script_dir.parent/"data"/"dataset.json"
+file_path = Path(__file__).parent.parent/"data"/"dataset.json"
+with open(file_path, 'r') as f:
     dataset = json.load(f)
 
 # 2. Format data for spaCy: (text, {"entities": [(start, end, label)]})
@@ -20,7 +24,6 @@ for item in dataset:
             if start != -1:
                 end = start + len(value)
                 
-                # --- NEW OVERLAP CHECK ---
                 # Check if this word's character positions overlap with an entity we already found
                 is_overlapping = False
                 for existing_start, existing_end, existing_label in entities:
@@ -36,6 +39,7 @@ for item in dataset:
     if entities:
         formatted_data.append((text, {"entities": entities}))
 
+print(formatted_data[:5]) 
 # Shuffle to ensure a good mix of data
 random.seed(42)
 random.shuffle(formatted_data)
@@ -81,3 +85,5 @@ for itn in range(30):
 output_dir = "models/product_ner_model"
 nlp.to_disk(output_dir)
 print(f"Success! Model trained and saved to directory: {output_dir}")
+
+
