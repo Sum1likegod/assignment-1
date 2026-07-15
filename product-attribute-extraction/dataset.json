@@ -1,0 +1,652 @@
+[
+    {
+        "description": "Floor length chiffon bridesmaid dress with pleated bodice and V neckline available in sage and dusty blue",
+        "attributes": {
+            "Silhouette": "None",
+            "Fabric": "chiffon",
+            "Neckline": "V neckline",
+            "Sleeve": "None",
+            "Length": "Floor length",
+            "Embellishment": "pleated bodice",
+            "Color": "sage and dusty blue",
+            "Category": "bridesmaid dress"
+        }
+    },
+    {
+        "description": "Sparkly sequin fitted prom gown featuring a deep illusion neckline and open back",
+        "attributes": {
+            "Silhouette": "fitted",
+            "Fabric": "None",
+            "Neckline": "illusion neckline",
+            "Sleeve": "None",
+            "Length": "None",
+            "Embellishment": "sequin",
+            "Color": "None",
+            "Category": "prom gown"
+        }
+    },
+    {
+        "description": "Off shoulder satin ball gown with corset bodice and sweep train in royal navy",
+        "attributes": {
+            "Silhouette": "ball gown",
+            "Fabric": "satin",
+            "Neckline": "Off shoulder",
+            "Sleeve": "None",
+            "Length": "None",
+            "Embellishment": "corset bodice",
+            "Color": "royal navy",
+            "Category": "ball gown"
+        }
+    },
+    {
+        "description": "Lace mermaid wedding dress with long sleeves and scalloped hem",
+        "attributes": {
+            "Silhouette": "mermaid",
+            "Fabric": "Lace",
+            "Neckline": "None",
+            "Sleeve": "long sleeves",
+            "Length": "None",
+            "Embellishment": "scalloped hem",
+            "Color": "None",
+            "Category": "wedding dress"
+        }
+    },
+    {
+        "description": "Short cocktail dress with feather trim and beaded waist detail",
+        "attributes": {
+            "Silhouette": "None",
+            "Fabric": "None",
+            "Neckline": "None",
+            "Sleeve": "None",
+            "Length": "Short",
+            "Embellishment": "feather trim and beaded waist detail",
+            "Color": "None",
+            "Category": "cocktail dress"
+        }
+    },
+    {
+        "description": "Tulle A line evening gown with floral embroidery and cap sleeves",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "Tulle",
+            "Neckline": "None",
+            "Sleeve": "cap sleeves",
+            "Length": "None",
+            "Embellishment": "floral embroidery",
+            "Color": "None",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Stretch jersey sheath dress with ruched waist and side slit",
+        "attributes": {
+            "Silhouette": "sheath",
+            "Fabric": "jersey",
+            "Neckline": "None",
+            "Sleeve": "None",
+            "Length": "None",
+            "Embellishment": "ruched waist and side slit",
+            "Color": "None",
+            "Category": "dress"
+        }
+    },
+    {
+        "description": "Strapless sweetheart neckline glitter gown with layered skirt",
+        "attributes": {
+            "Silhouette": "None",
+            "Fabric": "None",
+            "Neckline": "sweetheart neckline",
+            "Sleeve": "Strapless",
+            "Length": "None",
+            "Embellishment": "glitter",
+            "Color": "None",
+            "Category": "gown"
+        }
+    },
+    {
+        "description": "One shoulder draped chiffon dress with high slit and empire waist",
+        "attributes": {
+            "Silhouette": "empire waist",
+            "Fabric": "chiffon",
+            "Neckline": "One shoulder",
+            "Sleeve": "None",
+            "Length": "None",
+            "Embellishment": "draped",
+            "Color": "None",
+            "Category": "dress"
+        }
+    },
+    {
+        "description": "Velvet winter formal dress with square neckline and puff sleeves",
+        "attributes": {
+            "Silhouette": "None",
+            "Fabric": "Velvet",
+            "Neckline": "square neckline",
+            "Sleeve": "puff sleeves",
+            "Length": "None",
+            "Embellishment": "None",
+            "Color": "None",
+            "Category": "formal dress"
+        }
+    },
+    {
+        "description": "Knee length taffeta mermaid bridesmaid dress featuring a cowl neck, sleeveless, and beaded bodice in emerald green.",
+        "attributes": {
+            "Silhouette": "mermaid",
+            "Fabric": "taffeta",
+            "Neckline": "cowl neck",
+            "Sleeve": "sleeveless",
+            "Length": "Knee length",
+            "Embellishment": "beaded bodice",
+            "Color": "emerald green",
+            "Category": "bridesmaid dress"
+        }
+    },
+    {
+        "description": "Knee length lace A line evening gown featuring a scoop neck, spaghetti straps, and ruffled hem in blush pink.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "lace",
+            "Neckline": "scoop neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Knee length",
+            "Embellishment": "ruffled hem",
+            "Color": "blush pink",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Midi length crepe shift maxi dress featuring a plunging neckline, spaghetti straps, and sequin detailing in ruby red.",
+        "attributes": {
+            "Silhouette": "shift",
+            "Fabric": "crepe",
+            "Neckline": "plunging neckline",
+            "Sleeve": "spaghetti straps",
+            "Length": "Midi length",
+            "Embellishment": "sequin detailing",
+            "Color": "ruby red",
+            "Category": "maxi dress"
+        }
+    },
+    {
+        "description": "Ankle length lace shift maxi dress featuring a plunging neckline, sleeveless, and ruffled hem in champagne.",
+        "attributes": {
+            "Silhouette": "shift",
+            "Fabric": "lace",
+            "Neckline": "plunging neckline",
+            "Sleeve": "sleeveless",
+            "Length": "Ankle length",
+            "Embellishment": "ruffled hem",
+            "Color": "champagne",
+            "Category": "maxi dress"
+        }
+    },
+    {
+        "description": "Floor length silk mermaid maxi dress featuring a halter neckline, three quarter sleeves, and lace applique in champagne.",
+        "attributes": {
+            "Silhouette": "mermaid",
+            "Fabric": "silk",
+            "Neckline": "halter neckline",
+            "Sleeve": "three quarter sleeves",
+            "Length": "Floor length",
+            "Embellishment": "lace applique",
+            "Color": "champagne",
+            "Category": "maxi dress"
+        }
+    },
+    {
+        "description": "Floor length taffeta shift maxi dress featuring a scoop neck, three quarter sleeves, and lace applique in burgundy.",
+        "attributes": {
+            "Silhouette": "shift",
+            "Fabric": "taffeta",
+            "Neckline": "scoop neck",
+            "Sleeve": "three quarter sleeves",
+            "Length": "Floor length",
+            "Embellishment": "lace applique",
+            "Color": "burgundy",
+            "Category": "maxi dress"
+        }
+    },
+    {
+        "description": "Tea length lace wrap bridesmaid dress featuring a plunging neckline, short sleeves, and crystal sash in midnight black.",
+        "attributes": {
+            "Silhouette": "wrap",
+            "Fabric": "lace",
+            "Neckline": "plunging neckline",
+            "Sleeve": "short sleeves",
+            "Length": "Tea length",
+            "Embellishment": "crystal sash",
+            "Color": "midnight black",
+            "Category": "bridesmaid dress"
+        }
+    },
+    {
+        "description": "Floor length lace bodycon party dress featuring a cowl neck, spaghetti straps, and lace applique in blush pink.",
+        "attributes": {
+            "Silhouette": "bodycon",
+            "Fabric": "lace",
+            "Neckline": "cowl neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Floor length",
+            "Embellishment": "lace applique",
+            "Color": "blush pink",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Floor length cotton mermaid evening gown featuring a high neck, spaghetti straps, and sequin detailing in burgundy.",
+        "attributes": {
+            "Silhouette": "mermaid",
+            "Fabric": "cotton",
+            "Neckline": "high neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Floor length",
+            "Embellishment": "sequin detailing",
+            "Color": "burgundy",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Ankle length cotton shift evening gown featuring a high neck, spaghetti straps, and beaded bodice in emerald green.",
+        "attributes": {
+            "Silhouette": "shift",
+            "Fabric": "cotton",
+            "Neckline": "high neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Ankle length",
+            "Embellishment": "beaded bodice",
+            "Color": "emerald green",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Floor length chiffon wrap evening gown featuring a scoop neck, spaghetti straps, and lace applique in champagne.",
+        "attributes": {
+            "Silhouette": "wrap",
+            "Fabric": "chiffon",
+            "Neckline": "scoop neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Floor length",
+            "Embellishment": "lace applique",
+            "Color": "champagne",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Tea length silk mermaid sundress featuring a high neck, sleeveless, and crystal sash in blush pink.",
+        "attributes": {
+            "Silhouette": "mermaid",
+            "Fabric": "silk",
+            "Neckline": "high neck",
+            "Sleeve": "sleeveless",
+            "Length": "Tea length",
+            "Embellishment": "crystal sash",
+            "Color": "blush pink",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Ankle length silk shift evening gown featuring a cowl neck, sleeveless, and crystal sash in midnight black.",
+        "attributes": {
+            "Silhouette": "shift",
+            "Fabric": "silk",
+            "Neckline": "cowl neck",
+            "Sleeve": "sleeveless",
+            "Length": "Ankle length",
+            "Embellishment": "crystal sash",
+            "Color": "midnight black",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Midi length taffeta A line sundress featuring a plunging neckline, sleeveless, and beaded bodice in champagne.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "taffeta",
+            "Neckline": "plunging neckline",
+            "Sleeve": "sleeveless",
+            "Length": "Midi length",
+            "Embellishment": "beaded bodice",
+            "Color": "champagne",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Floor length lace A line evening gown featuring a plunging neckline, sleeveless, and crystal sash in midnight black.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "lace",
+            "Neckline": "plunging neckline",
+            "Sleeve": "sleeveless",
+            "Length": "Floor length",
+            "Embellishment": "crystal sash",
+            "Color": "midnight black",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Floor length taffeta wrap party dress featuring a high neck, spaghetti straps, and beaded bodice in emerald green.",
+        "attributes": {
+            "Silhouette": "wrap",
+            "Fabric": "taffeta",
+            "Neckline": "high neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Floor length",
+            "Embellishment": "beaded bodice",
+            "Color": "emerald green",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Floor length silk wrap sundress featuring a halter neckline, long sleeves, and ruffled hem in emerald green.",
+        "attributes": {
+            "Silhouette": "wrap",
+            "Fabric": "silk",
+            "Neckline": "halter neckline",
+            "Sleeve": "long sleeves",
+            "Length": "Floor length",
+            "Embellishment": "ruffled hem",
+            "Color": "emerald green",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Tea length organza bodycon evening gown featuring a scoop neck, sleeveless, and ruffled hem in champagne.",
+        "attributes": {
+            "Silhouette": "bodycon",
+            "Fabric": "organza",
+            "Neckline": "scoop neck",
+            "Sleeve": "sleeveless",
+            "Length": "Tea length",
+            "Embellishment": "ruffled hem",
+            "Color": "champagne",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Midi length taffeta A line maxi dress featuring a high neck, three quarter sleeves, and crystal sash in blush pink.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "taffeta",
+            "Neckline": "high neck",
+            "Sleeve": "three quarter sleeves",
+            "Length": "Midi length",
+            "Embellishment": "crystal sash",
+            "Color": "blush pink",
+            "Category": "maxi dress"
+        }
+    },
+    {
+        "description": "Knee length cotton mermaid sundress featuring a scoop neck, long sleeves, and ruffled hem in midnight black.",
+        "attributes": {
+            "Silhouette": "mermaid",
+            "Fabric": "cotton",
+            "Neckline": "scoop neck",
+            "Sleeve": "long sleeves",
+            "Length": "Knee length",
+            "Embellishment": "ruffled hem",
+            "Color": "midnight black",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Knee length silk bodycon evening gown featuring a plunging neckline, short sleeves, and lace applique in blush pink.",
+        "attributes": {
+            "Silhouette": "bodycon",
+            "Fabric": "silk",
+            "Neckline": "plunging neckline",
+            "Sleeve": "short sleeves",
+            "Length": "Knee length",
+            "Embellishment": "lace applique",
+            "Color": "blush pink",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Midi length chiffon shift party dress featuring a scoop neck, sleeveless, and sequin detailing in midnight black.",
+        "attributes": {
+            "Silhouette": "shift",
+            "Fabric": "chiffon",
+            "Neckline": "scoop neck",
+            "Sleeve": "sleeveless",
+            "Length": "Midi length",
+            "Embellishment": "sequin detailing",
+            "Color": "midnight black",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Ankle length chiffon A line sundress featuring a plunging neckline, three quarter sleeves, and beaded bodice in ruby red.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "chiffon",
+            "Neckline": "plunging neckline",
+            "Sleeve": "three quarter sleeves",
+            "Length": "Ankle length",
+            "Embellishment": "beaded bodice",
+            "Color": "ruby red",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Knee length silk A line party dress featuring a high neck, spaghetti straps, and lace applique in emerald green.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "silk",
+            "Neckline": "high neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Knee length",
+            "Embellishment": "lace applique",
+            "Color": "emerald green",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Floor length taffeta A line party dress featuring a plunging neckline, sleeveless, and ruffled hem in champagne.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "taffeta",
+            "Neckline": "plunging neckline",
+            "Sleeve": "sleeveless",
+            "Length": "Floor length",
+            "Embellishment": "ruffled hem",
+            "Color": "champagne",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Midi length organza wrap sundress featuring a plunging neckline, spaghetti straps, and crystal sash in ruby red.",
+        "attributes": {
+            "Silhouette": "wrap",
+            "Fabric": "organza",
+            "Neckline": "plunging neckline",
+            "Sleeve": "spaghetti straps",
+            "Length": "Midi length",
+            "Embellishment": "crystal sash",
+            "Color": "ruby red",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Tea length crepe A line party dress featuring a scoop neck, long sleeves, and beaded bodice in blush pink.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "crepe",
+            "Neckline": "scoop neck",
+            "Sleeve": "long sleeves",
+            "Length": "Tea length",
+            "Embellishment": "beaded bodice",
+            "Color": "blush pink",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Knee length silk bodycon party dress featuring a high neck, three quarter sleeves, and beaded bodice in burgundy.",
+        "attributes": {
+            "Silhouette": "bodycon",
+            "Fabric": "silk",
+            "Neckline": "high neck",
+            "Sleeve": "three quarter sleeves",
+            "Length": "Knee length",
+            "Embellishment": "beaded bodice",
+            "Color": "burgundy",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Midi length taffeta bodycon evening gown featuring a cowl neck, long sleeves, and ruffled hem in burgundy.",
+        "attributes": {
+            "Silhouette": "bodycon",
+            "Fabric": "taffeta",
+            "Neckline": "cowl neck",
+            "Sleeve": "long sleeves",
+            "Length": "Midi length",
+            "Embellishment": "ruffled hem",
+            "Color": "burgundy",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Ankle length organza A line maxi dress featuring a high neck, sleeveless, and ruffled hem in burgundy.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "organza",
+            "Neckline": "high neck",
+            "Sleeve": "sleeveless",
+            "Length": "Ankle length",
+            "Embellishment": "ruffled hem",
+            "Color": "burgundy",
+            "Category": "maxi dress"
+        }
+    },
+    {
+        "description": "Floor length lace A line maxi dress featuring a high neck, spaghetti straps, and lace applique in burgundy.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "lace",
+            "Neckline": "high neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Floor length",
+            "Embellishment": "lace applique",
+            "Color": "burgundy",
+            "Category": "maxi dress"
+        }
+    },
+    {
+        "description": "Knee length cotton A line party dress featuring a scoop neck, short sleeves, and lace applique in midnight black.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "cotton",
+            "Neckline": "scoop neck",
+            "Sleeve": "short sleeves",
+            "Length": "Knee length",
+            "Embellishment": "lace applique",
+            "Color": "midnight black",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Tea length crepe shift party dress featuring a cowl neck, sleeveless, and sequin detailing in ruby red.",
+        "attributes": {
+            "Silhouette": "shift",
+            "Fabric": "crepe",
+            "Neckline": "cowl neck",
+            "Sleeve": "sleeveless",
+            "Length": "Tea length",
+            "Embellishment": "sequin detailing",
+            "Color": "ruby red",
+            "Category": "party dress"
+        }
+    },
+    {
+        "description": "Tea length silk mermaid sundress featuring a scoop neck, spaghetti straps, and beaded bodice in burgundy.",
+        "attributes": {
+            "Silhouette": "mermaid",
+            "Fabric": "silk",
+            "Neckline": "scoop neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Tea length",
+            "Embellishment": "beaded bodice",
+            "Color": "burgundy",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Midi length silk A line maxi dress featuring a cowl neck, spaghetti straps, and crystal sash in champagne.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "silk",
+            "Neckline": "cowl neck",
+            "Sleeve": "spaghetti straps",
+            "Length": "Midi length",
+            "Embellishment": "crystal sash",
+            "Color": "champagne",
+            "Category": "maxi dress"
+        }
+    },
+    {
+        "description": "Floor length cotton A line sundress featuring a high neck, short sleeves, and crystal sash in midnight black.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "cotton",
+            "Neckline": "high neck",
+            "Sleeve": "short sleeves",
+            "Length": "Floor length",
+            "Embellishment": "crystal sash",
+            "Color": "midnight black",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Tea length cotton A line evening gown featuring a halter neckline, short sleeves, and lace applique in blush pink.",
+        "attributes": {
+            "Silhouette": "A line",
+            "Fabric": "cotton",
+            "Neckline": "halter neckline",
+            "Sleeve": "short sleeves",
+            "Length": "Tea length",
+            "Embellishment": "lace applique",
+            "Color": "blush pink",
+            "Category": "evening gown"
+        }
+    },
+    {
+        "description": "Midi length cotton bodycon sundress featuring a scoop neck, short sleeves, and beaded bodice in champagne.",
+        "attributes": {
+            "Silhouette": "bodycon",
+            "Fabric": "cotton",
+            "Neckline": "scoop neck",
+            "Sleeve": "short sleeves",
+            "Length": "Midi length",
+            "Embellishment": "beaded bodice",
+            "Color": "champagne",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Floor length cotton shift sundress featuring a halter neckline, short sleeves, and sequin detailing in ruby red.",
+        "attributes": {
+            "Silhouette": "shift",
+            "Fabric": "cotton",
+            "Neckline": "halter neckline",
+            "Sleeve": "short sleeves",
+            "Length": "Floor length",
+            "Embellishment": "sequin detailing",
+            "Color": "ruby red",
+            "Category": "sundress"
+        }
+    },
+    {
+        "description": "Tea length silk bodycon maxi dress featuring a scoop neck, three quarter sleeves, and sequin detailing in ruby red.",
+        "attributes": {
+            "Silhouette": "bodycon",
+            "Fabric": "silk",
+            "Neckline": "scoop neck",
+            "Sleeve": "three quarter sleeves",
+            "Length": "Tea length",
+            "Embellishment": "sequin detailing",
+            "Color": "ruby red",
+            "Category": "maxi dress"
+        }
+    }
+]
