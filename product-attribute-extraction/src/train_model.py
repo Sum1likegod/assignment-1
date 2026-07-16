@@ -82,7 +82,7 @@ for itn in range(30):
     print(f"Epoch {itn + 1}/30 - Losses: {losses.get('ner', 0):.2f}")
 
 # 6. Save the trained model to the 'models' folder
-output_dir = "models/product_ner_model"
+output_dir = Path(__file__).parent.parent/'models'/'product_ner_model'
 nlp.to_disk(output_dir)
 print(f"Success! Model trained and saved to directory: {output_dir}")
 
